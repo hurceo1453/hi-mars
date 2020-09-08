@@ -1,2 +1,2 @@
 # hi-mars
-başladık..
+büyük hayaller küçük insanlar dev gibi inançlar..
